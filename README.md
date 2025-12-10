@@ -83,3 +83,6 @@ Import the files into Tableau to create visual dashboards.
 • Build automated dashboards
 • Expand dataset including FIFA women’s data
 • Add REST API endpoints for interactive use
+## Tableau Public References for Report
+• Link for report: https://public.tableau.com/app/profile/amr.elerksosy/viz/fifaprojectvisualization/GlobalMarketLandscape
+• Screenshots of pages from report
